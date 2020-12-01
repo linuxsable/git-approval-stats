@@ -7,11 +7,5 @@ NOTE: This only works in BitBucket cloud currently.
 ## Usage
 
 ```
-ts-node git-approval-stats.ts <REPO DIR>
-```
-
-So:
-
-```
-ts-node git-approval-stats.ts .
+node git-approval-stats.js <REPO DIR>
 ```
