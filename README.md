@@ -8,11 +8,7 @@ NOTE: This only works in BitBucket cloud currently.
 
 ```
 node git-approval-stats.js <REPO DIR>
-```
 
-Output
-
-```
 Your top 50 reviewers are:
   1. Shaunna Watkins (1192 approvals)
   2. Bob Decker (1063 approvals)
@@ -21,5 +17,5 @@ Your top 50 reviewers are:
   5. Estelle Townsend (563 approvals)
   6. Malachi Nelson (537 approvals)
   7. Bertram Cuevas (521 approvals)
-  ...
+...
 ```
